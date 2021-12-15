@@ -15,6 +15,7 @@ $  mv sample.txt example.txt![image](https://user-images.githubusercontent.com/4
 ```
 
 ![image](https://user-images.githubusercontent.com/48306359/146265403-61f84246-97bc-441e-8dbe-7897f92b6d6e.png)
+![image](https://user-images.githubusercontent.com/48306359/146265842-3eaa8205-58af-4f92-86c1-66464b94cc09.png)
 
 
 >pw j\*\*07*\*
