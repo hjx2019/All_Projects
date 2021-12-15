@@ -19,3 +19,34 @@ $  mv sample.txt example.txt![image](https://user-images.githubusercontent.com/4
 
 
 >pw j\*\*07*\*
+
+
+## Pull Push and Commit
+
+1 from github, clone a new repository
+
+First staging, then commit!
+
+git clone sshlink
+
+git add .
+
+git commit -m "comment"         comment is must
+
+git status
+
+Do this someday: change default directory:
+
+Changing the Git default directories | PracticalSeries: Brackets-Git and GitHub
+
+Try this another day: change the name of the user folder hjx1_ is not a good one
+
+Change Name of User Profile Folder in Windows 10 | Tutorials (tenforums.com)
+
+
+
+Other topics:
+Remote sleep/wakeup a computer
+
+Use iphone to connect remote desktop
+Use iphone as a web camera
