@@ -37,11 +37,11 @@ git status
 
 Do this someday: change default directory:
 
-Changing the Git default directories | PracticalSeries: Brackets-Git and GitHub
+[Changing the Git default directories | PracticalSeries: Brackets-Git and GitHub](http://practicalseries.com/1002-vcs/03-03-install.html)
 
 Try this another day: change the name of the user folder hjx1_ is not a good one
 
-Change Name of User Profile Folder in Windows 10 | Tutorials (tenforums.com)
+[Change Name of User Profile Folder in Windows 10 | Tutorials (tenforums.com)](https://www.tenforums.com/tutorials/89060-change-name-user-profile-folder-windows-10-a.html)
 
 
 
