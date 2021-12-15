@@ -1,6 +1,9 @@
 # My Markdown Cheat Sheet
 
 [Back to Main](https://github.com/hjx2019/BootCampUofT)
+
+GitHub MD Syntax [Documentation](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
 ## H2 Paragraph `## H2 Paragraph`
 ##### H5 `##### H5`
 
