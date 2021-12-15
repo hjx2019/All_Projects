@@ -1,6 +1,25 @@
 # My Markdown Cheat Sheet
-## H2 `## H2`
+## H2 Paragraph `## H2 Paragraph`
 ##### H5 `##### H5`
+
+Seperater `******`
+****** 
+Seperater `* * * * *`
+* * * * *
+Seperater below title: `----------------`
+----------------
+
+### Table `### Table`
+|Header Column1|Column2|Column3|
+|----|----|----|
+|Value11|Value12|Value13|
+|Value21|Value22|Value23|
+```
+|Header Column1|Column2|Column3|
+|----|----|----|
+|Value11|Value12|Value13|
+|Value21|Value22|Value23|
+```
 
 * Item A `* Item A`
 * Item B `* Item B`
@@ -10,7 +29,10 @@
 
 > quote item `> quote item`
 
+#### H4 Format `H4 Format`
+
 **Bold** `**Bold**`
+
 
 _Italian_ `_Italian_`
 
@@ -18,9 +40,13 @@ _Italian_ `_Italian_`
 
 `Code`  `` `Code` ``
 
+[link name] `[link name](address)`
+
 ```python
 import pandas as pd
 
 ```python sql cpp(c++) json
 ```
+
+
 
