@@ -15,6 +15,7 @@ The project data in SE and HyperfineAutos will keep confidential.
 
 The task is to transfer data from an old platform to the new platform. Item_ids for the same item on the two platforms are different and irrelevant. Item names and discriptions are not exactily the same, too. Compare the item name on the two platforms, then link the two names for each item. Nested loop needs nearly a billion comparison. The team was planed to do it with VBA, but I used Python and filtered data in advance to make it possible.
 
+**_Techs & Tools :_** **Python**, pandas.DataFrame, difflib
 
 ### School District Analysis &#9733;
 >The project [(Repo Link M4)](https://github.com/hjx2019/School_District_Analysis.git) analyzed the performance of the students in each high school in a district, using pandas.DataFrame, numpy, jupyter notebook, including the average math&reading scores and passing rate of each school, and by grade/ budget/ school size/ school type. 
