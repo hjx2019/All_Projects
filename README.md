@@ -15,16 +15,16 @@ University of Toronto SCS Boot Camp, Data Analysis 2021-06 [Official WebSite](ht
 ...Tobe edited-
 
 ### School District Analysis 
->The project [(M4 Repo)](https://github.com/hjx2019/School_District_Analysis.git) analyzed the performance of the students in each high school in a district, using pandas.DataFrame, numpy, jupyter notebook.
+>The project [(M4 Repo)](https://github.com/hjx2019/School_District_Analysis.git) analyzed the performance of the students in each high school in a district, using pandas.DataFrame, numpy, jupyter notebook, including the average math&reading scores and passing rate of each school, and by grade/ budget/ school size/ school type. 
 
-**_Analysis :_** the performance of the students, including the average math&reading scores and passing rate of each school, and by grade/ budget/ school size/ school type. 
+**_Difficulty :_** &#9733;&#9733;
 
 **_Techs & Tools :_** **Python**, pandas.DataFrame, numpy, jupyter notebook
 
 ### Election Analysis 
 >The project [(M3 Repo)](https://github.com/hjx2019/election-analysis.git) is an analysis with Python and external files: .csv and .txt files.
 
-**_Analysis :_** Tom and Seth have a data set holding the result of a vote. We need to analyze the data to find out the election result. 
+**_Difficulty :_** &#9733;
 
 **_Techs & Tools :_** **Python**, CSV
 
@@ -39,17 +39,17 @@ University of Toronto SCS Boot Camp, Data Analysis 2021-06 [Official WebSite](ht
 
 
 ### Stock Analysis
->The project [(M2 Repo)](https://github.com/hjx2019/stocks-analysis.git) is the data searching and visualization in EXCEL VBA.
+>The project [(M2 Repo)](https://github.com/hjx2019/stocks-analysis.git) is the data searching and visualization in EXCEL VBA. Based on historical exchange data, the customer can select stocks to see their performances ran by Macro.
 
-**_Analysis :_** Based on historical exchange data, the customer can select stocks to see their performance with Macro..
+**_Difficulty :_** &#9733;
 
 **_Techs & Tools :_** **Excel VBA**, InputBox, 'If' Condition, 'For' Loop, Run-time tracing, Conditional Formatting
 
 
 ### Crowdfunding Projects Analysis
->The project [(M1 Repo)](https://github.com/hjx2019/Kickstarter-Analysis.git) is the data analysis and visualizaiton using EXCEL. No matter how far data analysis develops, Excel is always the Alpha. Using Excel for nearly 20 years, there are still some new functions that can be discovered, regardless of the new version. 
+>The project [(M1 Repo)](https://github.com/hjx2019/Kickstarter-Analysis.git) is the data analysis and visualizaiton using EXCEL. No matter how far data analysis develops, Excel is always the Alpha. Using Excel for nearly 20 years, there are still some new functions that can be discovered, regardless of the new version. Using the data of over 4000 crowdfunding projects needs to be organized and visualized for the manager to analyze easily.
 
-**_Analysis :_** the data of over 4000 crowdfunding projects needs to be organized and visualized for the manager to analyze easily.
+**_Difficulty :_** &#9733;&#9733; 
 
 **_Techs & Tools :_** **Excel**, UNIX timestamp, Pivot table, Formulas, Charts, Charts Editing, COUNTIFS(), Conditional Formatting 
 ******
@@ -60,7 +60,6 @@ University of Toronto SCS Boot Camp, Data Analysis 2021-06 [Official WebSite](ht
 * SSH [Gitbash SSH](GitHub/GitBash.md)
 * GitHub desktop
 * VS code - Work Space
-* 
 
 ### My Syntax Documentation
 > CMD line
