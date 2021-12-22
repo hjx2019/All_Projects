@@ -10,22 +10,19 @@ The project data in SE and HyperfineAutos will keep confidential.
 
 ## Python
 
-### SE Data Migration 
+### SE Data Migration &#9733;&#9733;&#9733;
 >Part-time Contract Position 2021.10 - 2022.01
 
-...Tobe edited-
+The task is to transfer data from an old platform to the new platform. Item_ids for the same item on the two platforms are different and irrelevant. Item names and discriptions are not exactily the same, too. Compare the item name on the two platforms, then link the two names for each item. Nested loop needs nearly a billion comparison. The team was planed to do it with VBA, but I used Python and filtered data in advance to make it possible.
 
-### School District Analysis 
->The project [(M4 Repo)](https://github.com/hjx2019/School_District_Analysis.git) analyzed the performance of the students in each high school in a district, using pandas.DataFrame, numpy, jupyter notebook, including the average math&reading scores and passing rate of each school, and by grade/ budget/ school size/ school type. 
 
-**_Difficulty :_** &#9733;&#9733;
+### School District Analysis &#9733;
+>The project [(Repo Link M4)](https://github.com/hjx2019/School_District_Analysis.git) analyzed the performance of the students in each high school in a district, using pandas.DataFrame, numpy, jupyter notebook, including the average math&reading scores and passing rate of each school, and by grade/ budget/ school size/ school type. 
 
 **_Techs & Tools :_** **Python**, pandas.DataFrame, numpy, jupyter notebook
 
-### Election Analysis 
->The project [(M3 Repo)](https://github.com/hjx2019/election-analysis.git) is an analysis with Python and external files: .csv and .txt files.
-
-**_Difficulty :_** &#9733;
+### Election Analysis &#9733;
+>The project [(Repo Link M3)](https://github.com/hjx2019/election-analysis.git) is an analysis with Python and external files: .csv and .txt files.
 
 **_Techs & Tools :_** **Python**, CSV
 
@@ -39,20 +36,16 @@ The project data in SE and HyperfineAutos will keep confidential.
 ...Tobe edited
 
 
-### Stock Analysis
->The project [(M2 Repo)](https://github.com/hjx2019/stocks-analysis.git) is the data searching and visualization in EXCEL VBA. Based on historical exchange data, the customer can select stocks to see their performances ran by Macro.
-
-**_Difficulty :_** &#9733;
+### Stock Analysis &#9733;
+>The project [(Repo Link M2)](https://github.com/hjx2019/stocks-analysis.git) is the data searching and visualization in EXCEL VBA. Based on historical exchange data, the customer can select stocks to see their performances ran by Macro.
 
 **_Techs & Tools :_** **Excel VBA**, InputBox, 'If' Condition, 'For' Loop, Run-time tracing, Conditional Formatting
 
-
-### Crowdfunding Projects Analysis
->The project [(M1 Repo)](https://github.com/hjx2019/Kickstarter-Analysis.git) is the data analysis and visualizaiton using EXCEL. No matter how far data analysis develops, Excel is always the Alpha. Using Excel for nearly 20 years, there are still some new functions that can be discovered, regardless of the new version. Using the data of over 4000 crowdfunding projects needs to be organized and visualized for the manager to analyze easily.
-
-**_Difficulty :_** &#9733;&#9733; 
+### Crowdfunding Projects Analysis &#9733;
+>The project [(Repo Link M1)](https://github.com/hjx2019/Kickstarter-Analysis.git) is the data analysis and visualizaiton using EXCEL. No matter how far data analysis develops, Excel is always the Alpha. Using Excel for nearly 20 years, there are still some new functions that can be discovered, regardless of the new version. Using the data of over 4000 crowdfunding projects needs to be organized and visualized for the manager to analyze easily.
 
 **_Techs & Tools :_** **Excel**, UNIX timestamp, Pivot table, Formulas, Charts, Charts Editing, COUNTIFS(), Conditional Formatting 
+
 ******
 
 ## System & Environment Setup
