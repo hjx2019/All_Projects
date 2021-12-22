@@ -53,5 +53,8 @@ import pandas as pd
 ```python sql cpp(c++) json
 ```
 
-
+### Special Character:
+&#9733;&#9734;&#9734;
+`&#9733;&#9734;&#9734;`
+[link](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references)
 
