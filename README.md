@@ -13,6 +13,14 @@ University of Toronto SCS Boot Camp, Data Analysis 2021-06 [Official WebSite](ht
 >Part-time Contract Position 2021.10 - 2022.01
 
 ...Tobe edited-
+
+### Election-Analysis 
+>The project [(M3 Repo)](https://github.com/hjx2019/election-analysis.git) is an analysis with Python and external files: .csv and .txt files.
+
+**_Analysis :_** Tom and Seth have a data set holding the result of a vote. We need to analyze the data to find out the election result. 
+
+**_Techs & Tools :_** **Python**, CSV
+
 ******
 
 
