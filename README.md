@@ -1,10 +1,11 @@
-# Portfolio
-> Projects at work & BootCampUofT
+# Intro
+> This is a Portfolio of my projects at works and in the UofT Boot Camp
 
 University of Toronto SCS (School of Continuing Studies) Boot Camp, Data analytics (2021-06) [Link](https://bootcamp.learn.utoronto.ca/data/) is an innovative, part-time program teaching participants market-driven skills: Learn Advanced Excel, Python, JavaScript (D3.js, Leaflet.js), HTML5/CSS, API Interactions, Social Media Mining, SQL, Tableau, Fundamental Statistics, Machine Learning, R, and Git/GitHub.
 
->As an industrial engineer, I dealt with data in manufacturing companies with SQL, Excel VBA, Access, and so on. I could understand the way that data works and what business and operation departments really need. As time goes by, new techs lead the trend of data mining and visualization. Then I came to the point to catch up. After a 6-month condensed study of Data Analytics, many skills & tools have become acquainted to me.
+As an industrial engineer, I dealt with data in manufacturing companies with SQL, Excel VBA, Access, and so on. I could understand the way that data works and what business and operation departments really need. As time goes by, new techs lead the trend of data mining and visualization. Then I came to the point to catch up. After a 6-month condensed study of Data Analytics, many skills & tools have become acquainted to me.
 
+The project data in SE and HyperfineAutos will keep confidential.
 
 
 ## Python
