@@ -14,7 +14,14 @@ University of Toronto SCS Boot Camp, Data Analysis 2021-06 [Official WebSite](ht
 
 ...Tobe edited-
 
-### Election-Analysis 
+### School District Analysis 
+>The project [(M4 Repo)](https://github.com/hjx2019/School_District_Analysis.git) analyzed the performance of the students in each high school in a district, using pandas.DataFrame, numpy, jupyter notebook.
+
+**_Analysis :_** the performance of the students, including the average math&reading scores and passing rate of each school, and by grade/ budget/ school size/ school type. 
+
+**_Techs & Tools :_** **Python**, pandas.DataFrame, numpy, jupyter notebook
+
+### Election Analysis 
 >The project [(M3 Repo)](https://github.com/hjx2019/election-analysis.git) is an analysis with Python and external files: .csv and .txt files.
 
 **_Analysis :_** Tom and Seth have a data set holding the result of a vote. We need to analyze the data to find out the election result. 
