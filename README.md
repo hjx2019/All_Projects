@@ -22,7 +22,7 @@ Part-time Contract Position 2021.10 - 2022.01
 
 >The PlanMyTrip app [(Repo Link M6)](https://github.com/hjx2019/World_Weather_Analysis.git)  is recommended a few changes to be taken to the next level. Specifically, they recommend adding the weather description to the weather data you’ve already retrieved in this module. Then, add statements to filter the data for the weather preferences, which will be used to identify potential travel destinations and nearby hotels. From the list of potential travel destinations, the beta tester will choose four cities to create a travel itinerary. Finally, using the Google Maps Directions API, a travel route between the four cities as well as a marker layer map is created.
 
-**_Techs & Tools :_** `Python`  `pandas`  `jupyter notebook`  `API` `Google Map API`  `matplotlib.pyplot`  `citipy` `requests`  `gmaps`
+**_Techs & Tools :_** `Python`  `pandas`  `jupyter notebook`  `API` `Google Map API`  `matplotlib.pyplot`  `citipy` `requests`  `gmaps` `json`
 
 ### PyBer Analysis &#9733;&#9733;&#9733;
 
